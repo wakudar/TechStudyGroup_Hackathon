@@ -12,3 +12,19 @@ S.M(@)
 R.W(@)  
 Y.K(@kami9811)  
 S.S(@)  
+
+
+## File Composition
+|---- css ----- page.css :     for page.html
+|      +------- login.css:     for login.html
+|      +------- register.css:  for register.html
+|
+|---- js ------ function.js
+|---- img ----- ...
+|
+|---- index.html:     empty file
+|---- login.html:     toppage, login-page
+|---- register.html:  user registration
+|---- page.html:      task management, select single/multi task
+
+
